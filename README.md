@@ -1,1 +1,2 @@
-# nndl-icp-6-assignment
+bachireddy guru raghavender 
+id : 700766339
